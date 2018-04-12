@@ -1,0 +1,15 @@
+F:\C#\books\books\bin\Debug\books.exe
+F:\C#\books\books\bin\Debug\books.pdb
+F:\C#\books\books\obj\x86\Debug\books.Form1.resources
+F:\C#\books\books\obj\x86\Debug\books.Properties.Resources.resources
+F:\C#\books\books\obj\x86\Debug\books.csproj.GenerateResource.Cache
+F:\C#\books\books\obj\x86\Debug\books.exe
+F:\C#\books\books\obj\x86\Debug\books.pdb
+F:\C#\books\books\obj\x86\Debug\books.UI.AccountPage.resources
+F:\C#\books\books\obj\x86\Debug\books.csprojResolveAssemblyReference.cache
+F:\C#\books\books\obj\x86\Debug\books.UI.RegistrationPage.resources
+F:\C#\books\books\obj\x86\Debug\books.UI.SentEmail.resources
+F:\C#\books\books\bin\Debug\books.exe.config
+F:\C#\books\books\obj\x86\Debug\books.UI.AdminPanel.resources
+F:\C#\books\books\obj\x86\Debug\books.UI.Update.resources
+F:\C#\books\books\obj\x86\Debug\books.UI.AddExam.resources
